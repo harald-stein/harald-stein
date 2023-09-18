@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <--
 - 👀 I’m interested in data science, travelling, raising my daughter
-- 🌱 I’m currently learning data science with Julia, Big data processing with Vaex/Python, web application programming with Django&React
+- 🌱 I’m currently learning data science/machine learning with Python, web application programming with Supabase & next.js
 - 💞️ I’m looking to collaborate on our fancy DX.One-projects
 - 📫 How to reach me: harald.stein@dx.one.gmbh
 
